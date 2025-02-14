@@ -36,9 +36,6 @@ The **Anti-Sleep Alarm** is a safety device designed to keep drivers and individ
 - AI-based fatigue prediction.
 - Cloud-based data logging.
 
-## Contributors
-- [Your Name]
-- [Other Contributors]
 
 ## License
 This project is licensed under the MIT License.
