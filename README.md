@@ -9,6 +9,10 @@ The **Anti-Sleep Alarm Specs** is a safety device designed to keep drivers and i
 - **Wearable or Dashboard Mounted**: Can be designed as an ear-mounted device or integrated into a vehicle dashboard.
 - **Customizable Sensitivity**: Adjustable alert levels based on user preference.
 - **Power Efficient**: Designed for long battery life with low-power components.
+## Media
+![Anti-Sleep Alarm Prototype](C:\Users\syedi\Downloads)
+
+[Watch Demo Video](path_to_video.mp4)
 
 ## Hardware Specifications
 - **Microcontroller**: Arduino, ESP8266, or Raspberry Pi (depending on complexity)
