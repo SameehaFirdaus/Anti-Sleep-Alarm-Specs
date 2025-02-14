@@ -45,5 +45,5 @@ The **Anti-Sleep Alarm Specs** is a safety device designed to keep drivers and i
 This project is licensed under the MIT License.
 
 ## Contact
-For inquiries and contributions, contact sameehafirdaus1024@gmail.com or visit the GitHub repository.
+For inquiries and contributions,visit the GitHub repository.
 
