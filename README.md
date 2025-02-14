@@ -1,7 +1,7 @@
-# Anti-Sleep Alarm
+# Anti-Sleep Alarm Specs
 
 ## Overview
-The **Anti-Sleep Alarm** is a safety device designed to keep drivers and individuals awake and alert. It detects signs of drowsiness and provides an alarm to prevent accidents caused by microsleep episodes.
+The **Anti-Sleep Alarm Specs** is a safety device designed to keep drivers and individuals awake and alert. It detects signs of drowsiness and provides an alarm to prevent accidents caused by microsleep episodes.
 
 ## Features
 - **Drowsiness Detection**: Uses sensors (e.g., IR sensors, accelerometers, or camera-based eye-tracking) to detect signs of sleepiness.
