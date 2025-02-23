@@ -14,6 +14,10 @@ The **Anti-Sleep Alarm Specs** is a safety device designed to keep drivers and i
 ## Hardware Specifications
 - **Microcontroller**: Arduino, ESP8266, or Raspberry Pi (depending on complexity)
 - **Sensors**:
+
+https://github.com/user-attachments/assets/cc875bdf-f35f-4296-af23-21ef8ec60c6c
+
+
   - Infrared (IR) Sensor / Eyelid Tracking Camera
   - Accelerometer (for head movement detection)
   - Heart Rate Sensor (optional)
