@@ -10,10 +10,6 @@ The **Anti-Sleep Alarm Specs** is a safety device designed to keep drivers and i
 - ![WhatsApp Image 2025-02-02 at 8 45 30 PM](https://github.com/user-attachments/assets/de03541b-dd19-49c5-9e73-f3650c533f23)
 - **Customizable Sensitivity**: Adjustable alert levels based on user preference.
 - **Power Efficient**: Designed for long battery life with low-power components.
-## Media
-![Anti-Sleep Alarm Prototype](C:\Users\syedi\Downloads)
-
-[Watch Demo Video](path_to_video.mp4)
 
 ## Hardware Specifications
 - **Microcontroller**: Arduino, ESP8266, or Raspberry Pi (depending on complexity)
