@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/cc875bdf-f35f-4296-af23-21ef8ec60c6c
 - **Embedded C / Python**: Programming for microcontroller functionality
 
 ## Installation & Usage
-1. Assemble the hardware components as per the circuit diagram.
+1. Assemble hardware components as per the circuit diagram.
 2. Upload firmware code to the microcontroller.
 3. Adjust sensitivity settings as needed.
 4. Wear or mount the device and turn it on.
